@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidStudioStudy</string>
+
+    <string name="tv_latitude">위도 : </string>
+    <string name="tv_longitude">경도 : </string>
+    <string name="btn_start">조회</string>
+    <string name="webView">webView</string>
+
+</resources>
